@@ -1,6 +1,7 @@
 # 🏋️ FitnessCenter
 
 **My very first OOP project!** A simple desktop fitness application built with Qt and C++.
+> **Note:** The entire interface is in Polish.
 
 ## 📸 Screenshots
 
@@ -25,8 +26,6 @@
   - Arms
 - 📝 **Built-in Notepad** - Save your workout notes and progress
 - 📈 **Progress Tracking** - Visual progress bar to track your fitness journey
-
-> **Note:** The entire interface is in Polish.
 
 ## 🛠️ Technologies
 
